@@ -4,7 +4,7 @@
 
 本小程序共有“姓名”“八字”“风水”“号码”四个功能页，每页功能如下:
 
-[Image](https://raw.githubusercontent.com/jinanwanjing/yijingtool/main/logo.jpg)
+![Image](https://raw.githubusercontent.com/jinanwanjing/yijingtool/main/logo.jpg)
 
 ### 功能
 
