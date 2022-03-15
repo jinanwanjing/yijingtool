@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 瞧八字
 
-You can use the [editor on GitHub](https://github.com/jinanwanjing/yijingtool/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+易有太极，是生两仪，两仪生四象，四象生八卦，八卦定吉凶，吉凶生大业
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本小程序共有“姓名”“八字”“风水”“号码”四个功能页，每页功能如下:
 
-### Markdown
+[Image](https://raw.githubusercontent.com/jinanwanjing/yijingtool/main/logo.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 功能
 
-```markdown
-Syntax highlighted code block
+1. “姓名”页可以进行姓名分析和起名建议
+2. “八字”页可以进行生辰数字的转换
+3. “风水”页可以进行房屋家具方向的计算
+4. “号码”页可以进行手机、车牌、车位等号码的分析
 
-# Header 1
-## Header 2
-### Header 3
+### 服务支持
 
-- Bulleted
-- List
+注:部分功能页的结果可能需要专业知识去解读，如果需要，可以联系微信联系作者进行交流，作者微信(61967631)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jinanwanjing/yijingtool/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
