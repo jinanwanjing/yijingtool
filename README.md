@@ -2,7 +2,7 @@
 
 易有太极，是生两仪，两仪生四象，四象生八卦，八卦定吉凶，吉凶生大业
 
-本小程序共有“姓名”“八字”“风水”“号码”四个功能页，每页功能如下:
+本app共有“姓名”“八字”“风水”“号码”四个功能页，每页功能如下:
 
 ![Image](https://raw.githubusercontent.com/jinanwanjing/yijingtool/main/logo.jpg)
 
