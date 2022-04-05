@@ -1,10 +1,12 @@
 ## 易理乾坤
 
+[点击下载安卓APP](https://apk-1310015793.cos.ap-beijing.myqcloud.com/6d7913c6-5143-4553-87a1-8ef8b712ccfb.apk)
+
 易有太极，是生两仪，两仪生四象，四象生八卦，八卦定吉凶，吉凶生大业
 
 本app共有“姓名”“八字”“风水”“号码”四个功能页，每页功能如下:
 
-![Image](https://raw.githubusercontent.com/jinanwanjing/yijingtool/main/logo.jpg)
+![Image](https://raw.githubusercontent.com/jinanwanjing/yijingtool/main/logo.png)
 
 ### 功能
 
