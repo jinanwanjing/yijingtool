@@ -2,7 +2,7 @@
 
 ![Image](https://raw.githubusercontent.com/jinanwanjing/yijingtool/main/logo.png)
 
-[点击下载安卓APP](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-93f00cd4-0e9f-4808-9069-c47a98b77b8f/17fd127b-2355-4ace-89b8-8128afe3868f.apk)
+[点击下载安卓APP](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-93f00cd4-0e9f-4808-9069-c47a98b77b8f/af1d6c33-5030-4de3-bda6-52703b875bab.apk)
 
 易有太极，是生两仪，两仪生四象，四象生八卦，八卦定吉凶，吉凶生大业
 
