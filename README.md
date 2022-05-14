@@ -2,7 +2,7 @@
 
 ![Image](https://image-1310015793.cos.ap-beijing.myqcloud.com/108%2A108.png)
 
-[点击下载安卓APP](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-93f00cd4-0e9f-4808-9069-c47a98b77b8f/7376c867-0ccf-4857-af51-b8cf85e30516.apk)
+[点击下载安卓APP](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-93f00cd4-0e9f-4808-9069-c47a98b77b8f/db260d9b-1284-4190-988a-8b7ba11d8264.apk)
 
 易有太极，是生两仪，两仪生四象，四象生八卦，八卦定吉凶，吉凶生大业
 
